@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application>
+        <activity android:name=".ArticleDetailActivity" />
+        <activity android:name=".AddArticleActivity" />
+        <activity android:name=".ArticlesActivity" />
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".MainActivity" />
+    </application>
+</manifest>
