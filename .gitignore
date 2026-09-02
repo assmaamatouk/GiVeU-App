@@ -13,4 +13,4 @@ local.properties
 # Cartelle di build e lavoro temporaneo
 build/
 **/build/
-work/
+
