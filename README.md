@@ -5,6 +5,7 @@ GiVeU è un'applicazione mobile Android progettata per facilitare la donazione g
 ## Scopo
 L'app permette di consultare oggetti disponibili per la donazione, organizzarli per categoria, visualizzarne i dettagli e inserire nuovi oggetti con descrizione e immagine.
 Mockup: https://www.figma.com/design/baeImqYTgnaIB4ypMeuvlq/Untitled?node-id=31-129&t=gz0gYkkSVQ93XafX-1
+
 <img width="2234" height="915" alt="Untitled" src="https://github.com/user-attachments/assets/a4d4517b-1082-4425-a99a-bbff5039f1e4" />
 
 ## Funzionalità
